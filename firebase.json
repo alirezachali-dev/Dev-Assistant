@@ -1,0 +1,7 @@
+{
+    "hosting": {
+      "site": "dev-assis",
+  
+      "public": "public"
+    }
+  }
